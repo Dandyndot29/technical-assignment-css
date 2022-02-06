@@ -1,0 +1,19 @@
+#daftar-siswa {
+    text-decoration-color:#F3F4F6;
+    text-transform:uppercase ;
+    font-family: sans-serif;
+    width: 400;
+    background-color:gray ;
+}
+p:hover { 
+    background-color: darkgrey;
+    color: #F3F4F6;
+
+}
+p {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
